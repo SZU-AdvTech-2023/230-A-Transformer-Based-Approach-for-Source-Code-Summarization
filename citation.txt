@@ -1,0 +1,6 @@
+@inproceedings{REPO230,
+    author = "Ahmad, Wasi Uddin and Chakraborty, Saikat and Ray, Baishakhi and Chang, Kai-Wei",
+    booktitle = "Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL)",
+    title = "{A Transformer-based Approach for Source Code Summarization}",
+    year = "2020"
+}
